@@ -1,0 +1,57 @@
+\usetheme{boxes}
+%\usetheme{madrid} 
+%\usetheme{metropolis} 
+%\usetheme{Boadilla} 
+
+%   \setbeameroption{show notes}  %the default is not to show notes
+
+\usepackage{amsmath}
+\setbeamertemplate{itemize items}[ball]
+\setbeamertemplate{itemize subitem}[dash]
+%\setbeamertemplate{frametitle}[default][center]
+\setbeamertemplate{frametitle}[default][left]
+
+%\setbeamertemplate{note page}[plain]
+%\setbeamertemplate{note page}{\pagecolor{yellow!5}\insertnote}
+\setbeamertemplate{note page}{\pagecolor{gray!15}\insertnote}
+
+\usepackage[abs]{overpic}
+\usepackage{wrapfig}
+%\usepackage[table]{xcolor}
+\usepackage{booktabs} %\toprule (and \midrule or \bottomrule) are defined in the booktabs package. 
+%\usepackage{tabu}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage[most]{tcolorbox} %doesn't clash with the below
+\usepackage{colortbl} 
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+
+% \usepackage{xcolor} %clashes with  \usepackage{colortbl}
+
+\AtBeginNote{\hspace*{-5pt}\addtolength\leftmargini{-10pt}}
+\AtEndNote{\addtolength\leftmargini{5pt}}
+
+%\beamertemplatenavigationsymbolsempty
+%\setbeamerfont{page number in head/foot}{size=\large}
+\setbeamertemplate{footline}[frame number]                                       %page number
+
+% defining a color
+\definecolor{mossgreen}{rgb}{0.68, 0.87, 0.68}
+\usepackage{mdframed}
+\usepackage{framed}
+\usepackage{scalerel,stackengine}
+
+\usepackage{blindtext} %This package generates automatic text
+\usepackage{epigraph}
+\setlength\epigraphwidth{10cm}
+\setlength\epigraphrule{0pt}
+\makeatletter
+\patchcmd{\epigraph}{\@epitext{#1}}{\itshape\@epitext{#1}}{}{}
+\makeatother
