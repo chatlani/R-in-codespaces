@@ -1,0 +1,44 @@
+
+{
+	"name": "R Data Science Environment",
+	"build": {
+		"dockerfile": "./Dockerfile"
+	},
+
+	// Install Dev Container Features. More info: https://containers.dev/features
+	"features": {
+		"ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {}
+	},
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"vsls-contrib.codetour",
+				"GitHub.copilot",
+				"REditorSupport.r",
+				"RDebugger.r-debugger"
+			]
+		}
+	},
+
+	// Forward RStudio ports
+	"forwardPorts": [8787],
+	"portsAttributes": {
+		"8787": {
+			"label": "RStudio",
+			"requireLocalPort": true,
+			"onAutoForward": "ignore"
+		}
+	},
+
+	// Use 'postAttachCommand' to run commands after the container is started.
+	"postAttachCommand": "sudo rstudio-server start"
+
+	// Ensure rstudio home has a workspace symlink and R startup when the container is created
+	,"postCreateCommand": "sudo ln -sfn /workspaces/R-in-codespaces /home/rstudio/workspace || true && sudo chown -h rstudio:rstudio /home/rstudio/workspace || true && (sudo grep -qxF 'setwd(\"~/workspace\")' /home/rstudio/.Rprofile 2>/dev/null || echo 'setwd(\"~/workspace\")' | sudo tee -a /home/rstudio/.Rprofile) && sudo chown rstudio:rstudio /home/rstudio/.Rprofile || true"
+
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root
+	//"remoteUser": "aembaye2"
+}

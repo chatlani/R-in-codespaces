@@ -69,7 +69,6 @@ Over periods of a few years, we can average the growth rates to find the approxi
 
 ## Growth Rates over Longer Periods
 
-Growth Rates over Longer Periods
 
 For longer time periods, we wouldn’t want to calculate each of the annual growth rates and then take an average in order to find the average annual growth rate; instead we would solve for the growth rate g, where:
 
