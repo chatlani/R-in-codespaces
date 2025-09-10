@@ -56,9 +56,6 @@ The growth rate of an economic variable like real GDP or real GDP per capita is 
 
 $$\frac{\$21.8 trillion−\$21.4 trillion)}{(\$21.4 trillion)}$$
 
-$$\frac{1}{2}$$
-$$Y= \beta x +2$$
-
 ## Growth Rates over a Few Years
 
 Over periods of a few years, we can average the growth rates to find the approximate annual rate of growth. 
@@ -72,7 +69,8 @@ Over periods of a few years, we can average the growth rates to find the approxi
 
 For longer time periods, we wouldn’t want to calculate each of the annual growth rates and then take an average in order to find the average annual growth rate; instead we would solve for the growth rate g, where:
 
-with t representing the number of time periods between the previous and current periods. + A useful shortcut called the Rule of 70 can help us determine how long it will take for an economic variable to double:
+with t representing the number of time periods between the previous and current periods. 
++ A useful shortcut called the Rule of 70 can help us determine how long it will take for an economic variable to double:
 
 If the growth rate is 5 percent, the variable will double in
 
@@ -80,13 +78,12 @@ If the growth rate is 5 percent, the variable will double in
 
 What Determines the Rate of Long-Run Growth?
 
-Increases in real GDP per capita rely on increases in labor productivity: The quantity of goods and services that can be produced by one worker or by one hour of work. + Why can the average American consume more than nine times as many goods and services now than in 1900? + Because the average American produces more than nine times as many goods and services in an hour now than in 1900.
+Increases in real GDP per capita rely on increases in labor productivity: The quantity of goods and services that can be produced by one worker or by one hour of work. 
++ Why can the average American consume more than nine times as many goods and services now than in 1900? + Because the average American produces more than nine times as many goods and services in an hour now than in 1900.
 
 So, most of the answer to “what determines the rate of long-run growth?” is the same as the answer to “what determines labor productivity growth?”
 
 ## Factors Affecting Labor Productivity Growth (1 of 2)
-
-Factors Affecting Labor Productivity Growth (1 of 2)
 
 Increases in capital per hour worked
 
@@ -94,79 +91,81 @@ Capital is physical assets and intellectual property that are used to produce ot
 
 Technological change
 
-Improvements in capital or methods to combine inputs into outputs (i.e., new technologies) allow workers to produce more in a given period of time. + The role of entrepreneurs here is critical in pioneering new ways to bring together the factors of production to produce better or lower-cost products.
+Improvements in capital or methods to combine inputs into outputs (i.e., new technologies) allow workers to produce more in a given period of time. 
++ The role of entrepreneurs here is critical in pioneering new ways to bring together the factors of production to produce better or lower-cost products.
 
 ## Factors Affecting Labor Productivity Growth (2 of 2)
 
-Factors Affecting Labor Productivity Growth (2 of 2)
 
 Property rights
 
-A market system cannot function unless rights to private property are secure. + Governments can aid growth by establishing independent court systems to enforce contracts between private individuals.
+A market system cannot function unless rights to private property are secure. 
++ Governments can aid growth by establishing independent court systems to enforce contracts between private individuals.
 
 ## Apply the Concept: Can India Sustain Its Rapid Growth? (1 of 2)
 
-Apply the Concept: Can India Sustain Its Rapid Growth? (1 of 2)
-
-To many people, the rapid economic rise of India was unexpected. + Before its independence from England in 1947, growth rates in India were very low, and India was desperately poor. + In 1991, the Indian government decided to scale back central planning, reduce regulations, and introduce market-based reforms, leading to the growth rate in India’s real GDP per capita doubling.
+To many people, the rapid economic rise of India was unexpected. 
++ Before its independence from England in 1947, growth rates in India were very low, and India was desperately poor. 
++ In 1991, the Indian government decided to scale back central planning, reduce regulations, and introduce market-based reforms, leading to the growth rate in India’s real GDP per capita doubling.
 
 ![](imgs3/img_slide15a.png){height=99%}
 
 ## Apply the Concept: Can India Sustain Its Rapid Growth? (2 of 2)
 
-Apply the Concept: Can India Sustain Its Rapid Growth? (2 of 2)
 
-Continued growth will require upgraded infrastructure, improved educational and health services, and commitment to the rule of law and market-based reforms. + Recent key policies in India include: + Regulatory reforms to reduce corruption and improve the ability to operate businesses. + Modernizing infrastructure, including roads, railroads, and internet access.
+Continued growth will require upgraded infrastructure, improved educational and health services, and commitment to the rule of law and market-based reforms. 
++ Recent key policies in India include: 
++ Regulatory reforms to reduce corruption and improve the ability to operate businesses. 
++ Modernizing infrastructure, including roads, railroads, and internet access.
 
 ![](imgs3/img_slide16a.png){height=99%}
 
 ## Potential GDP
 
-Potential GDP
+Potential GDP is the level of real GDP attained when all firms are operating at capacity. Capacity here refers to “normal” hours and a “normal” sized workforce. 
++ Potential GDP rises when the labor force expands, when a nation acquires more capital stock, or when new technologies are created.
 
-Potential GDP is the level of real GDP attained when all firms are operating at capacity. Capacity here refers to “normal” hours and a “normal” sized workforce. + Potential GDP rises when the labor force expands, when a nation acquires more capital stock, or when new technologies are created.
-
-The growth in potential GDP in the United States has been relatively steady at about 3.1 percent; that is, the potential to produce final goods and services has been growing in the United States at about this rate over time. + The recessions of 2007–2009 and 2020 resulted in a wider than usual gap between potential and actual GDP, as the next slide illustrates.
+The growth in potential GDP in the United States has been relatively steady at about 3.1 percent; that is, the potential to produce final goods and services has been growing in the United States at about this rate over time. 
++ The recessions of 2007–2009 and 2020 resulted in a wider than usual gap between potential and actual GDP, as the next slide illustrates.
 
 ## Figure 10.2 Actual and Potential GDP
-
-Figure 10.2 Actual and Potential GDP
 
 ![](imgs3/img_slide18a.png){height=99%}
 
 ## 10.2 Saving, Investment, and the Financial System
 
-10.2 Saving, Investment, and the Financial System
 
 Discuss the role of the financial system in facilitating long-run economic growth.
 
-Firms can finance some of their own expansion through retained earnings, reinvesting profits back into the firm. + But often firms want to obtain more funds for expansion than are available in this way.
+Firms can finance some of their own expansion through retained earnings, reinvesting profits back into the firm. 
++ But often firms want to obtain more funds for expansion than are available in this way.
 
 Firms obtain these funds via the financial system: The system of financial markets and financial intermediaries through which firms acquire funds from households.
 
 ## Financial Markets and Financial Intermediaries
 
-Financial Markets and Financial Intermediaries
-
-Financial markets are markets where financial securities, such as stocks and bonds, are bought and sold. + Financial security: A document (sometimes electronic) stating the terms under which funds pass from the buyer of the security to the seller. + Stock: A financial security representing partial ownership of a firm. + Bond: A financial security promising to repay a fixed amount of funds. A bond is essentially a loan from a household to a firm.
+Financial markets are markets where financial securities, such as stocks and bonds, are bought and sold. + Financial security: A document (sometimes electronic) stating the terms under which funds pass from the buyer of the security to the seller. 
++ Stock: A financial security representing partial ownership of a firm. 
++ Bond: A financial security promising to repay a fixed amount of funds. A bond is essentially a loan from a household to a firm.
 
 Financial intermediaries are firms, such as banks, mutual funds, pension funds, and insurance companies, that borrow funds from savers and lend them to borrowers.
 
 ## The Services the Financial System Provides
 
-The Services the Financial System Provides
+Risk sharing 
++ By allowing investors to spread their money over many different assets, investors can reduce their risk while maintaining a high expected return on their investment.
 
-Risk sharing + By allowing investors to spread their money over many different assets, investors can reduce their risk while maintaining a high expected return on their investment.
+Liquidity 
++ The financial system allows savers to quickly convert their investments into cash.
 
-Liquidity + The financial system allows savers to quickly convert their investments into cash.
-
-Information + The prices of financial securities represent the beliefs of other investors and financial intermediaries about the future revenue stream from holding those securities. + This aggregation of information makes funds flow to the right firms.
+Information 
++ The prices of financial securities represent the beliefs of other investors and financial intermediaries about the future revenue stream from holding those securities. 
++ This aggregation of information makes funds flow to the right firms.
 
 ## The Macroeconomics of Savings and Investment
 
-The Macroeconomics of Savings and Investment
-
-We will now derive the result that the total value of saving in the economy must equal the total value of investment. + Recall that we can express the GDP of a nation (Y) as the sum of consumption (C), investment (I), government purchases (G), and net exports (N X). That is,
+We will now derive the result that the total value of saving in the economy must equal the total value of investment. 
++ Recall that we can express the GDP of a nation (Y) as the sum of consumption (C), investment (I), government purchases (G), and net exports (N X). That is,
 
 We will assume a closed economy, with no exports or imports; so
 
@@ -175,8 +174,6 @@ We can rearrange this to obtain an expression for investment:
 That is, investment in a closed economy is equal to income minus consumption and government purchases.
 
 ## Savings
-
-Savings
 
 Savings is composed of private savings (by households,
 
@@ -191,8 +188,6 @@ The government “saves” whatever it brings in but does not spend (this may be
 So, total saving is:
 
 ## Savings Equals Investment
-
-Savings Equals Investment
 
 The two previous slides led us to the same expressions for savings and investment. So we conclude that savings must equal investment:
 
