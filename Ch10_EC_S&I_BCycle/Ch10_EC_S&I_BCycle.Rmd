@@ -54,7 +54,8 @@ The growth rate of an economic variable like real GDP or real GDP per capita is 
 
 + In 2022, Real GDP was \$21.8 trillion
 
-$$\frac{\$21.8 trillion−\$21.4 trillion)}{(\$21.4 trillion)}$$
+$$\left( \frac{21.8\ \text{trillion} - 21.4\ \text{trillion}}{21.4\ \text{trillion}} \right) \times 100 = 1.9\%$$
+
 
 ## Growth Rates over a Few Years
 
@@ -64,6 +65,8 @@ Over periods of a few years, we can average the growth rates to find the approxi
 + In 2021, real GDP growth was 5.8% 
 + In 2022, real GDP growth was 1.9% 
 + So, the average annual growth rate over this three-year period was;
+
+$$\frac{-2.2\% + 5.8\% + 1.9\%}{3} = 1.8\%$$
 
 ## Growth Rates over Longer Periods
 
